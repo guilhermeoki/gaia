@@ -24,7 +24,7 @@ function notifyMe() {
     else {
         var notification = new Notification('Ei!! Não se esquece de regar seu alecrim!!! :)', {
         icon: 'http://statick4.bseller.com.br/product/74507/694485_5104_Dancing_Groot_GLAM_1024x1024.png',
-        body: "Hello Gaia, that's my first notification test!",
+        body: "",
         });
 
         // notification.onclick = function () {
